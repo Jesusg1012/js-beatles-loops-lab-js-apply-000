@@ -24,6 +24,7 @@ function iLoveTheBeatles(num)
   var x = 0;
   do
   {
-    
-  }while(x < )
+    lego
+    x++
+  }while(x < num)
 }
