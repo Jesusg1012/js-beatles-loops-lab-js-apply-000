@@ -6,4 +6,13 @@ function theBeatlesPlay (mus, ins)
   {
     lego += mus[i] + " Plays " + ins[i]
   }
+  return lego;
+}
+function johnLennonFacts(facts)
+{
+  var x = 0;
+  while (x < facts.length)
+  {
+    x++;
+  }
 }
