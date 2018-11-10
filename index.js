@@ -11,9 +11,10 @@ function theBeatlesPlay (mus, ins)
 function johnLennonFacts(facts)
 {
   var x = 0;
+  var test = [];
   while (x < facts.length)
   {
-    facts[x] = facts[x] + "!!!";
+    test.push(facts[x] + "!!!");
     x++;
   }
   return facts;
