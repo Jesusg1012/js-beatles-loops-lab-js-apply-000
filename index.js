@@ -24,7 +24,7 @@ function iLoveTheBeatles(num)
   var x = 0;
   do
   {
-    lego
+    lego.push("I love the Beatles!")
     x++
   }while(x < num)
 }
