@@ -2,5 +2,5 @@
 function theBeatlesPlay (mus, ins)
 {
   var lego = [];
-  for ()
+  for (var i = 0; i =)
 }
