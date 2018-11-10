@@ -1,2 +1,5 @@
 // add solution here
-function 
+function theBeatlesPlay (mus, ins)
+{
+  
+}
