@@ -13,7 +13,7 @@ function johnLennonFacts(facts)
   var x = 0;
   while (x < facts.length)
   {
-    facts[x] = facts[x] + "!!!"
+    facts[x] = facts[x] + "!!!";
     x++;
   }
   return facts;
@@ -24,7 +24,8 @@ function iLoveTheBeatles(num)
   var x = 0;
   do
   {
-    lego.push("I love the Beatles!")
-    x++
-  }while(x < num)
+    lego.push("I love the Beatles!");
+    x++;
+  }while(x < num);
+  return lego;
 }
