@@ -4,7 +4,7 @@ function theBeatlesPlay (mus, ins)
   var lego = [];
   for (var i = 0; i < mus.length; i++)
   {
-    lego += mus[i] + " Plays " + ins[i];
+    lego.push(mus[i] + " Plays " + ins[i]);
   }
   return lego;
 }
